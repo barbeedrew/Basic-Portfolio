@@ -36,10 +36,8 @@ h1{
     width: 800px;
 }
 
-#bio-image{
-    width: 140px;
-    height: 140px;
+.turkey{
+    float: left;
+
+
 }
-
-
-
